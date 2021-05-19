@@ -1,4 +1,4 @@
-module std
+module github.com/rafaeltorres324/go/src
 
 go 1.16
 
